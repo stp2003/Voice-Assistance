@@ -1,4 +1,4 @@
-import 'package:chat_gpt/constants/colors.dart'
+import 'package:chat_gpt/constants/colors.dart';
 import 'package:chat_gpt/screen/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
